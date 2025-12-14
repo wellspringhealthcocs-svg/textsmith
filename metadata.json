@@ -1,0 +1,5 @@
+{
+  "name": "TextSmith",
+  "description": "A clean, efficient, and multi-functional text refinement tool powered by Google Gemini.",
+  "requestFramePermissions": []
+}
