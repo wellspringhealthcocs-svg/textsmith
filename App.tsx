@@ -183,11 +183,6 @@ const App: React.FC = () => {
 
       {/* Main Content */}
       <main className="flex-grow bg-slate-50 relative">
-        {/* Side Skyscraper Ad */}
-        <div className="hidden xl:block absolute left-4 top-24 w-[160px] h-[600px] bg-slate-100 border border-slate-200 rounded flex items-center justify-center text-xs text-slate-400">
-          Skyscraper Ad
-        </div>
-
         <div className="max-w-6xl mx-auto px-4 py-8 sm:px-6 lg:px-8">
           
           {activeTab === 'editor' ? (
